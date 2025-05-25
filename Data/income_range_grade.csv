@@ -1,0 +1,5 @@
+grade,income_range_low,income_range_high
+1,0,29999
+2,30000,59999
+3,60000,99999
+4,100000,9999999

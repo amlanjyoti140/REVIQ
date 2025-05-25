@@ -1,0 +1,9 @@
+langchain
+openai
+faiss-cpu
+sqlalchemy
+pandas
+numpy
+tabulate
+pycaret
+xgboost

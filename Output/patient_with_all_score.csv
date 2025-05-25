@@ -1,0 +1,201 @@
+,id,name,address_line1,address_line2,county,city,state,zip_code,age,email,phone,gender,maritial_status,occupation,annual_income_grade,patient_condition,no_of_dependant,price_sensitivity_score,awareness_score,coverage_confusion_score,refill_reminder_score,adherence_score
+0,1,Keith Norton,5619 April Forks,Apt. 005,Kings,Johnbury,CA,63720,58,michaelmurphy@hotmail.com,8528852779,Female,Widowed,Accountant,4,chronic,2,0.08,0.66,0.0,1.0,0.45
+1,2,Ronald Woods,721 Justin Vista,,Harris,Gordonberg,CA,98491,45,nrose@perez.info,9377255983,Non-Binary,Divorced,Accountant,3,chronic,4,0.2,0.96,0.35,0.5,0.46
+2,3,Willie Ramos,79419 Hebert Glens,Suite 659,Miami-Dade,Christianchester,NY,32056,21,tara46@shaffer.net,8327971257,Male,Divorced,Unemployed,1,acute,3,0.6,0.41,0.0,0.5,0.56
+3,4,Megan Gibson,49404 Cox Mill Apt. 592,,Harris,Phillipstown,IL,53305,81,chambersalbert@nelson.com,7319348136,Male,Divorced,Teacher,1,acute,0,0.68,0.43,0.1,0.5,0.54
+4,5,Kimberly Miller,3434 Michelle Stream Suite 811,Suite 368,King,Port Levifurt,AZ,82681,50,hhobbs@oliver.net,7584324421,Non-Binary,Single,Teacher,5,chronic,4,0.0,0.64,0.0,0.08,0.7
+5,6,Victoria Acosta,295 James Coves Apt. 362,Suite 970,Kings,Sandrabury,WA,91625,59,whitejoseph@hernandez-clarke.com,7434862778,Male,Married,Teacher,1,chronic,5,0.68,0.47,0.1,0.5,0.55
+6,7,Robert Holder,999 Tyler Squares,Apt. 233,Orange,Port Yolanda,NY,15533,70,cruztara@cook.net,2669489008,Non-Binary,Widowed,Teacher,2,chronic,2,0.48,0.75,0.35,0.5,0.47
+7,8,Sandra Mendez,470 Carr Expressway,,King,South Amy,FL,66838,80,mramirez@montgomery.com,1006556682,Non-Binary,Married,Student,5,acute,0,0.08,0.52,0.1,0.75,0.53
+8,9,Samantha James,3240 Luis Knoll,Apt. 505,Kings,East Stephanieport,CA,80231,34,johnsonjames@yahoo.com,953621964,Non-Binary,Widowed,Accountant,1,acute,5,0.84,0.68,0.42,0.5,0.42
+9,10,Alexandra Gentry,268 Michael Landing,Suite 685,Cook,South Jennifer,TX,15408,85,jonathanwarren@hall-wood.org,2600466906,Male,Married,Teacher,2,acute,1,0.48,0.44,0.1,0.62,0.54
+10,11,Mark Scott,856 Brown Cape,Suite 489,Multnomah,Ayalaview,IL,83052,32,mcconnellkathryn@duran.com,1182326961,Female,Divorced,Retired,4,chronic,1,0.0,0.51,0.0,1.0,0.47
+11,12,Alexis Ellis,646 Kelli Turnpike,Suite 440,Cook,Jacobmouth,NY,59148,69,connietorres@gmail.com,1129576054,Male,Married,Teacher,2,acute,5,0.48,0.69,0.0,0.5,0.55
+12,13,Brian Perez Jr.,663 Stephanie Plains,,Cook,West Paulton,CA,15612,35,gespinoza@golden-alvarez.com,5427946421,Non-Binary,Single,IT Consultant,3,acute,0,0.28,0.5,0.2,0.7,0.48
+13,14,Shannon Garcia,66929 Joshua River,,King,Knapptown,WA,74945,32,mpatel@sanford.com,3301063372,Female,Divorced,Unemployed,3,chronic,3,0.2,0.84,0.0,0.5,0.52
+14,15,Beth Espinoza,390 Martinez Station Apt. 386,Suite 877,Cook,Kellyville,AZ,86467,19,john66@hotmail.com,7684199371,Non-Binary,Widowed,Accountant,2,acute,4,0.4,0.89,0.0,0.5,0.49
+15,16,Jill Flowers,795 Smith Fort Suite 864,Suite 728,Miami-Dade,West Paulmouth,WA,51376,40,cbaxter@hotmail.com,2330529703,Non-Binary,Widowed,Accountant,2,chronic,1,0.4,0.64,0.37,0.5,0.48
+16,17,Christian Gomez,14023 Bates Dam,Apt. 731,King,Jonton,FL,33649,48,torrescraig@gmail.com,6885700648,Male,Widowed,Student,5,chronic,2,,,,,
+17,18,Michael Smith,9614 Brianna Camp,,Broward,Port Joemouth,NY,40617,69,amy68@mcintyre.info,274293976,Female,Widowed,Nurse,3,acute,2,,,,,
+18,19,Loretta Patterson,068 Terry Loop Apt. 636,,King,New Richardside,TX,84733,32,lisa63@hotmail.com,8593321614,Female,Married,IT Consultant,1,acute,1,0.6,0.8,0.0,0.5,0.48
+19,20,Chelsey Black,52736 Adam Ferry Apt. 975,,Harris,Davischester,NY,94410,78,kristiblack@myers-newman.com,6102594530,Female,Divorced,Student,2,acute,4,0.4,0.74,0.27,0.5,0.52
+20,21,Adam Weiss,8124 Greg Villages Apt. 691,,Harris,Melissaville,AZ,56133,75,amanda03@yahoo.com,1322918639,Female,Married,Teacher,3,acute,3,0.2,0.37,0.0,0.75,0.58
+21,22,Mrs. Elizabeth Doyle,110 Rivera Wells Apt. 021,,Alameda,Salazarside,AZ,97672,48,wolfwanda@hotmail.com,5647374718,Non-Binary,Single,IT Consultant,4,chronic,3,0.16,0.89,0.35,0.5,0.46
+22,23,Stephanie Duffy,848 Riley Square,Suite 816,King,East Angelaview,TX,75457,51,banksjessica@figueroa-hall.com,6719630098,Non-Binary,Divorced,Part-Time Worker,1,chronic,1,,,,,
+23,24,Nancy Harvey,6611 Lopez Trail,Apt. 587,Orange,East Jasonborough,WA,12178,31,vmoreno@white.com,1857493107,Non-Binary,Married,IT Consultant,2,chronic,2,0.4,0.7,0.1,0.62,0.48
+24,25,Beth Holmes,4338 Vega Rest,,Kings,Scottberg,FL,27785,29,todd22@hotmail.com,7323350516,Female,Single,Unemployed,2,acute,4,0.48,0.81,0.1,0.5,0.48
+25,26,Kristen Taylor,9087 Moore Track,Suite 391,Harris,South David,AZ,88452,36,vanessagonzalez@hotmail.com,4389385117,Non-Binary,Widowed,Retired,2,chronic,2,,,,,
+26,27,Shawn Duarte,273 April Meadows Apt. 679,Suite 133,Kings,Judyshire,AZ,35847,46,jgarcia@hotmail.com,6354621977,Female,Divorced,Teacher,3,chronic,1,0.2,0.6,0.6,0.5,0.48
+27,28,Bradley Brown,642 Hall Valley,Suite 508,Multnomah,Mckayfort,AZ,23989,80,arielbrown@mckay-berry.com,8714000832,Non-Binary,Married,Retired,2,chronic,1,,,,,
+28,29,Julie Gonzalez,28924 Rachel Turnpike Apt. 135,Suite 460,Miami-Dade,Lawrenceton,FL,14766,25,gerald22@hancock-brown.biz,6910896386,Non-Binary,Widowed,Teacher,3,chronic,1,0.28,0.11,0.0,0.67,0.59
+29,30,Juan Kelley,84084 Stanley Fields,Apt. 783,Multnomah,North Audreyburgh,AZ,76864,51,megangibson@yahoo.com,373904427,Male,Married,Part-Time Worker,4,acute,4,,,,,
+30,31,Alexander Galvan,9452 Harding Garden,,Broward,Joannatown,FL,36104,58,anna50@hotmail.com,3109561965,Male,Single,Retired,1,chronic,3,0.68,0.37,0.0,0.27,0.63
+31,32,Kelly Gross,4111 Jenna Branch Apt. 169,Apt. 987,Alameda,Lake Brenda,TX,71904,24,jlopez@yahoo.com,4901057794,Male,Single,Retired,1,chronic,0,0.6,0.46,0.0,0.17,0.61
+32,33,Kimberly Stone,86955 Reed Forges Apt. 651,Suite 456,Alameda,Gonzalezport,TX,59380,19,mark56@baird.com,8357944405,Non-Binary,Divorced,Part-Time Worker,1,acute,1,0.6,0.52,0.1,0.5,0.51
+33,34,Caitlin Martinez,91285 Christine Dale Apt. 727,Apt. 219,Multnomah,North Joshua,OR,69130,29,wmyers@yahoo.com,9762458077,Female,Single,Teacher,4,chronic,4,0.08,0.86,0.6,0.44,0.45
+34,35,Dawn Petersen,54790 Mary Prairie Suite 260,Apt. 302,Maricopa,Courtneyview,WA,5606,67,svang@hotmail.com,5549132586,Male,Widowed,IT Consultant,5,acute,2,0.16,0.06,0.27,0.25,0.7
+35,36,Joanna Williams,517 Lacey Square Apt. 590,Suite 316,Multnomah,Simonfurt,FL,63567,35,elizabethjohnston@mills-solis.biz,6198055738,Non-Binary,Divorced,Engineer,3,acute,4,0.2,0.42,0.0,0.52,0.61
+36,37,Lisa Phillips,3155 Kennedy Greens,Suite 606,Orange,Jessicaport,AZ,9080,53,melody26@yahoo.com,8110758449,Non-Binary,Single,Retired,5,acute,3,0.16,0.38,0.0,0.5,0.62
+37,38,Angela Salas,84704 Audrey Mount Apt. 384,Suite 408,Harris,Port Robert,OR,27484,79,egray@collins-medina.biz,8412527671,Female,Widowed,Nurse,4,acute,0,,,,,
+38,39,Brian Velazquez,9361 Donna Turnpike Suite 143,Suite 351,Alameda,East Robert,AZ,18495,28,tanya87@hotmail.com,2818393626,Non-Binary,Widowed,Accountant,3,chronic,3,0.2,0.98,0.0,0.75,0.43
+39,40,Mr. David Bright Jr.,0024 Carter Groves,Apt. 365,Harris,Lake Tyler,IL,77338,30,sabrinafaulkner@hotmail.com,415025897,Non-Binary,Divorced,Unemployed,5,chronic,3,0.0,0.46,0.37,0.67,0.52
+40,41,Amber Evans,6268 Wilson Fields Apt. 463,Suite 259,King,Lisaborough,IL,11462,25,cruzlauren@gmail.com,1549838745,Male,Divorced,Nurse,3,acute,4,,,,,
+41,42,Heather Jones,857 Gonzalez Ways Apt. 205,Apt. 267,Kings,New Heatherstad,CA,76690,74,susan40@yahoo.com,9015417733,Female,Married,Teacher,2,chronic,3,0.4,0.46,0.6,0.12,0.61
+42,43,Gwendolyn Levy,2902 Whitney Brook,,King,Lake Nathan,OR,5727,66,kward@palmer.biz,1267819467,Female,Single,Nurse,4,chronic,4,0.0,0.45,0.1,0.5,0.63
+43,44,Leslie Curry,9458 Patterson Fields,Apt. 999,Harris,Jenniferhaven,NY,71821,85,emily29@hansen.com,8737170051,Male,Divorced,Accountant,5,acute,1,0.16,0.59,0.1,0.5,0.56
+44,45,Patricia Wilson,1785 Pena Land Suite 962,Suite 841,Kings,Warrenchester,FL,44663,44,johnrhodes@gmail.com,4413542862,Female,Divorced,Teacher,5,acute,3,0.0,0.57,0.5,0.5,0.53
+45,46,Alicia Byrd,86639 Bray Ridges Apt. 252,Apt. 371,Kings,Annamouth,AZ,26201,46,rjenkins@yahoo.com,7886407188,Male,Divorced,Nurse,1,acute,3,0.6,0.37,0.0,0.5,0.58
+46,47,Holly Harris,20872 Williams Shoals,,Multnomah,South Stacey,TX,61708,38,vgarcia@gmail.com,8565030401,Non-Binary,Widowed,Retired,2,chronic,1,0.4,0.93,0.0,0.5,0.48
+47,48,Jacob Strickland,2526 Roberta Grove,Apt. 880,King,Williamsstad,CA,96202,44,james63@hotmail.com,1546906348,Non-Binary,Widowed,Part-Time Worker,1,acute,3,0.68,0.74,0.0,0.5,0.49
+48,49,Dawn Ramsey,02512 Erika Hollow Suite 707,Suite 632,King,Lake Alexander,AZ,65024,72,cbailey@lin-gilbert.com,672418257,Female,Divorced,Part-Time Worker,5,chronic,4,0.08,0.67,0.35,0.5,0.54
+49,50,Amanda Oneill,41629 Gerald Courts Apt. 549,,Broward,North Johnshire,FL,22018,54,gtorres@lynch.biz,5808765358,Female,Married,Nurse,1,chronic,3,0.6,0.47,0.0,0.46,0.58
+50,51,Jennifer Irwin,10813 Bonnie Camp Suite 863,Apt. 215,Alameda,New Catherine,CA,3697,38,joyce30@lucas.biz,636082173,Male,Married,Engineer,2,acute,0,0.4,0.96,0.0,0.67,0.42
+51,52,Brian Nichols,448 Rodriguez Way,Apt. 505,King,South Jackchester,AZ,86342,78,pgraham@meadows.com,5777850999,Male,Divorced,Nurse,5,acute,3,0.0,0.56,0.0,0.94,0.52
+52,53,Rebecca Jackson,18990 Heather Wells,,Cook,Angelachester,TX,30076,64,jerrycross@hotmail.com,9420058271,Female,Widowed,Teacher,4,chronic,5,0.08,0.25,0.42,0.5,0.61
+53,54,Michael Bauer,021 Clark Squares Suite 000,Suite 387,Maricopa,Wilsonport,AZ,26991,49,thomasrachel@rhodes-avery.com,3022256747,Non-Binary,Married,Part-Time Worker,4,chronic,0,,,,,
+54,55,Jacob Lambert,0501 Jose Underpass,Suite 426,Harris,North Stephanie,OR,69294,63,calebadams@hotmail.com,5062290951,Female,Divorced,Accountant,5,acute,4,0.0,0.28,0.1,0.5,0.66
+55,56,Jeanette Sanford,2681 Natalie Forks,Suite 410,Orange,South Veronicaberg,CA,51820,42,daviswyatt@mcconnell.com,7591189482,Female,Married,Student,2,chronic,4,0.56,0.63,0.1,0.45,0.52
+56,57,Brandon Maxwell,22007 Sarah Islands Apt. 824,Suite 005,Alameda,West Stacey,AZ,12089,20,christopherburton@hotmail.com,5254832301,Female,Divorced,Nurse,1,acute,5,,,,,
+57,58,Andrew Meyers,0428 Marisa Forks,Suite 636,Alameda,West Markshire,WA,52015,66,lnixon@bauer.com,3138851586,Female,Widowed,Engineer,5,acute,1,0.0,0.44,0.53,0.5,0.55
+58,59,Matthew Torres,306 Bell Corner Suite 913,Apt. 590,Miami-Dade,Garyborough,OR,48032,31,brian01@ferguson-cervantes.com,9626869334,Female,Married,Unemployed,2,acute,0,0.48,0.73,0.0,0.5,0.49
+59,60,Ms. Sheila Flores MD,256 Rivera Court Suite 081,Suite 066,Multnomah,South Vanessaside,FL,39696,24,harold96@hotmail.com,1310969290,Male,Divorced,Part-Time Worker,5,chronic,4,0.0,0.25,0.3,0.47,0.62
+60,61,Melissa Webb,8161 David Cliff Suite 562,Suite 021,Multnomah,Woodtown,OR,44851,32,qdavis@gmail.com,2265939697,Female,Single,Part-Time Worker,4,acute,3,0.0,0.45,0.1,0.5,0.6
+61,62,Matthew Donovan,149 Peterson Pike,Apt. 320,Broward,New Katherineberg,OR,70062,44,panderson@yahoo.com,879569136,Male,Single,Student,4,chronic,3,0.08,0.32,0.32,0.62,0.56
+62,63,Tristan Lane,023 Sherry Mountains,Suite 792,Alameda,Smithhaven,FL,8797,69,susan66@hotmail.com,208013299,Female,Single,Retired,1,chronic,1,0.6,0.55,0.0,0.72,0.5
+63,64,Kathleen Gonzalez,3216 Wilcox Mills Apt. 323,,Miami-Dade,East Davidton,OR,9084,34,jacob24@gmail.com,6457850646,Male,Divorced,IT Consultant,1,acute,0,0.6,0.61,0.0,0.37,0.54
+64,65,Colleen Martin,4253 David Forge Apt. 113,Suite 280,Kings,Samanthafurt,IL,12764,44,bryan43@gmail.com,9988908873,Male,Widowed,Nurse,3,chronic,2,0.28,0.2,0.1,0.64,0.58
+65,66,Mr. Roger Hebert,2640 Ryan Common,,Harris,Romeroberg,TX,5127,29,susanwright@coleman-cardenas.com,9959788042,Female,Single,Teacher,2,acute,5,0.4,0.83,0.0,0.42,0.53
+66,67,Tiffany Lee,4666 Williams Square,,Maricopa,Port Kristenborough,IL,66395,30,marclee@yahoo.com,9131598644,Non-Binary,Widowed,Teacher,4,chronic,5,0.0,0.55,0.0,0.03,0.73
+67,68,Jeffrey Wilcox,9830 Maldonado Dale,Apt. 103,Maricopa,Amymouth,AZ,96866,74,andrea48@marshall-white.com,5377568711,Female,Widowed,Engineer,3,chronic,4,0.36,0.2,0.1,0.49,0.64
+68,69,Kyle Le,715 William Alley,Apt. 059,Harris,West Alexisborough,NY,74105,82,murraypatricia@yahoo.com,7817479131,Non-Binary,Widowed,Accountant,2,acute,2,0.48,0.69,0.1,0.5,0.53
+69,70,Jeremy Taylor,702 John Islands Apt. 107,Apt. 021,Broward,Fredfort,TX,31755,52,ayoung@hotmail.com,9718793553,Female,Divorced,Unemployed,2,chronic,0,0.4,0.66,0.0,0.21,0.6
+70,71,Lisa Jefferson DDS,48203 Morgan Club,Apt. 592,Harris,Port Bryce,IL,96560,33,patricia14@carrillo.com,6669178592,Non-Binary,Widowed,Nurse,3,acute,0,0.2,0.84,0.1,0.5,0.49
+71,72,Melanie Nelson,867 Thomas Islands,Suite 246,Miami-Dade,New Jefferyview,IL,91704,48,georgealexis@yahoo.com,2150429875,Male,Divorced,Teacher,4,acute,2,,,,,
+72,73,Brooke Hubbard,5453 Bass Isle,Suite 607,King,Reillyfort,TX,34646,85,amyhernandez@barr.com,415729240,Non-Binary,Widowed,Engineer,3,chronic,5,0.2,0.28,0.6,0.35,0.63
+73,74,Jessica Adams,70833 Robert Islands Suite 682,Apt. 690,King,Nunezton,TX,94009,85,jonathan21@hanson-rowe.com,5268896392,Non-Binary,Single,IT Consultant,4,acute,3,0.08,0.19,0.1,0.5,0.68
+74,75,Casey Mckenzie,3010 Timothy Village Suite 444,Apt. 729,Multnomah,Kathleenside,OR,6491,63,bcase@gonzales.org,1823866398,Male,Divorced,Engineer,3,acute,0,0.2,0.53,0.0,1.0,0.46
+75,76,Dennis Grant,147 Davies Stravenue,Suite 105,Broward,Martinezside,WA,12175,29,alexander45@johnson.com,41771063,Female,Single,Retired,5,acute,2,0.08,0.51,0.0,0.67,0.54
+76,77,Anthony Li,9139 Karen Forge,Suite 350,Kings,Rachelview,CA,58115,59,juarezvalerie@yahoo.com,4327976195,Non-Binary,Divorced,Part-Time Worker,2,chronic,5,0.4,0.14,0.0,0.19,0.75
+77,78,Gabriella York,606 Sandra Mews,Suite 264,Orange,Jensenville,AZ,63424,64,josephtaylor@yahoo.com,8982737318,Non-Binary,Single,IT Consultant,4,acute,1,0.0,0.81,0.1,0.5,0.54
+78,79,Theresa Garcia,931 Contreras Ridges Apt. 881,,King,South Prestonview,FL,32715,46,tyronelopez@ingram-morrison.info,7478927063,Non-Binary,Married,Retired,1,acute,4,,,,,
+79,80,Brittany Johnson,7212 Robert Shoals Apt. 551,,Orange,New Tamaraview,OR,63577,19,baileylori@roman.org,431091481,Female,Married,Nurse,5,chronic,5,0.08,0.54,0.0,0.35,0.62
+80,81,Ricardo Wolf,119 Long Valleys Suite 584,,Alameda,Port Adamhaven,NY,75657,65,emiller@gmail.com,4499983315,Female,Divorced,Unemployed,5,acute,4,,,,,
+81,82,Bonnie Roberts,71173 Johnson Crossing Suite 152,,Kings,Port Staceyside,CA,53179,55,coopernathaniel@harding.com,1400697275,Male,Divorced,Retired,3,acute,5,0.2,0.79,0.0,0.5,0.55
+82,83,Meghan Cooley,3092 Jon Flats,Apt. 607,Alameda,Hillfort,IL,79692,62,wwatts@gmail.com,1848184394,Female,Single,Engineer,2,chronic,5,0.4,0.8,0.1,0.5,0.52
+83,84,Carolyn Wallace,945 Robert Turnpike Suite 873,Apt. 401,Miami-Dade,Martinezport,NY,8418,48,vmccarty@fisher.biz,3346092866,Female,Married,Retired,2,chronic,5,0.4,0.4,0.1,0.4,0.62
+84,85,Paul Combs,2842 Woods Club Suite 442,,Maricopa,West Julie,AZ,72134,62,btaylor@yahoo.com,5657997129,Non-Binary,Married,Unemployed,5,chronic,3,,,,,
+85,86,Dr. Charles Duran,54576 James Trail Apt. 414,,Multnomah,West Shannon,AZ,96875,24,gomezroy@gordon.com,4684845732,Non-Binary,Widowed,Part-Time Worker,3,chronic,4,0.28,0.31,0.0,0.82,0.53
+86,87,Jennifer Pearson,24820 Nguyen Trafficway Apt. 874,,Orange,Trujilloton,AZ,61659,83,ryanamy@phillips.com,6655364119,Non-Binary,Single,Nurse,4,chronic,0,0.08,0.08,0.2,0.46,0.68
+87,88,Lisa Johnson,728 Curry Viaduct,,Kings,West Marthabury,OR,40283,77,amyhughes@gmail.com,703059260,Non-Binary,Widowed,Retired,1,chronic,2,0.68,0.39,0.22,0.3,0.6
+88,89,Julie Nunez,83815 Stephanie Park,Apt. 340,Miami-Dade,New Nathanberg,CA,72412,38,butlermelanie@gmail.com,2159083881,Non-Binary,Widowed,Unemployed,2,chronic,0,0.4,0.46,0.0,0.25,0.63
+89,90,David Torres,696 Misty Rapid Apt. 576,Apt. 923,Miami-Dade,New Jamie,TX,36582,36,christina27@ochoa.info,3849146478,Male,Divorced,Student,1,chronic,5,0.76,0.41,0.0,0.5,0.55
+90,91,Jordan Harris,142 Matthew Loop Apt. 311,Apt. 646,Cook,Bankshaven,IL,43617,33,alexis69@gmail.com,2630275620,Male,Divorced,IT Consultant,3,chronic,2,0.2,0.88,0.0,0.5,0.5
+91,92,Ruth Best,00350 Jennifer Avenue,,Miami-Dade,South Heidiview,CA,3259,79,lanekimberly@yahoo.com,9881509652,Male,Divorced,Unemployed,5,chronic,0,0.0,0.46,0.1,0.5,0.61
+92,93,John Smith,134 Christopher Street Apt. 396,,King,Port Ronald,CA,33729,57,sharon86@hotmail.com,6374188022,Non-Binary,Divorced,Accountant,2,chronic,3,0.4,0.8,0.0,0.5,0.53
+93,94,Ryan Burton PhD,863 Floyd Cape Apt. 594,Suite 259,King,New Steve,FL,17531,79,rojaseddie@hotmail.com,2408418611,Male,Divorced,Student,3,acute,0,,,,,
+94,95,Patrick Reed,498 Williams Greens Apt. 682,Suite 662,Multnomah,New Taylor,CA,20932,55,ruizalicia@rodriguez.com,8058613626,Male,Widowed,Retired,2,chronic,1,0.48,0.24,0.2,0.47,0.58
+95,96,William Johnson,531 Walton Well,Apt. 900,Cook,Tracyland,TX,83336,24,tina50@gmail.com,9696522205,Female,Single,Student,1,acute,5,0.68,0.43,0.27,0.54,0.5
+96,97,Angela Hunter,731 Hartman Key Suite 829,Suite 937,Broward,West Julie,IL,33743,85,hwu@thomas.biz,7415389517,Non-Binary,Single,Teacher,4,chronic,5,0.08,0.6,0.27,0.5,0.58
+97,98,Michelle Lee,5620 Garcia Hollow,,Orange,Gregorychester,CA,18477,73,alexis46@yahoo.com,1656454092,Non-Binary,Married,Accountant,1,chronic,2,,,,,
+98,99,Amber Garcia,302 Skinner Hill,,Harris,East Diana,OR,27427,77,aprilpeterson@fisher.com,5397404995,Female,Married,Accountant,1,acute,2,,,,,
+99,100,Kimberly Hoffman,34212 John Cape Suite 384,,Cook,New Jonathan,TX,32850,67,michael52@cherry.com,2501411251,Female,Married,IT Consultant,1,acute,3,0.6,0.96,0.6,0.5,0.39
+100,101,Jennifer Richardson,4324 Christine Valley Apt. 898,Apt. 851,Orange,Paulton,CA,39677,21,clinesherri@yahoo.com,2973574638,Male,Married,Engineer,3,chronic,4,0.2,0.8,0.0,0.5,0.52
+101,102,Hannah Thomas,251 Phillips Walks,,King,Craigberg,IL,63856,46,barbara87@hotmail.com,348526949,Non-Binary,Divorced,Student,3,acute,5,0.2,0.66,0.0,1.0,0.45
+102,103,Jared Sims,5008 Katrina Fords,Apt. 696,Kings,Davidburgh,OR,68982,29,umendez@mathews.com,7302715160,Male,Widowed,Retired,5,chronic,0,0.0,0.53,0.2,0.5,0.55
+103,104,Eric Miller,0286 Emily Highway,Suite 439,Miami-Dade,Jasonton,TX,37874,52,antoniohernandez@zuniga-hill.com,8457225457,Female,Widowed,Accountant,4,chronic,5,,,,,
+104,105,Mario Rodriguez,617 Collins Burgs,Suite 459,Kings,North Rachel,IL,40434,19,kcantu@parrish-watson.net,9416200350,Female,Widowed,Student,2,acute,3,0.4,0.51,0.0,0.5,0.55
+105,106,Bradley Wallace,8009 Abigail Drive,Suite 598,Broward,New Kimberlyborough,FL,99523,81,jonestimothy@cruz-nguyen.net,8916125724,Non-Binary,Widowed,Student,5,acute,5,0.0,0.21,0.0,0.32,0.76
+106,107,Laura Graham,611 Amber Lodge Apt. 509,Apt. 345,Maricopa,Birdmouth,AZ,13407,77,barneskyle@brown.com,651870052,Female,Single,Engineer,3,chronic,2,0.2,0.44,0.0,0.5,0.62
+107,108,Daniel Howard,47497 Robert Vista Suite 032,,Maricopa,South Courtney,CA,78698,33,herbert80@norton-hall.com,329775870,Male,Single,Accountant,1,chronic,5,0.68,0.51,0.0,0.32,0.58
+108,109,Barbara Simmons,73917 Teresa Summit,Apt. 507,Harris,West Timothy,AZ,78899,65,benjamin51@hotmail.com,8047553432,Male,Single,IT Consultant,3,acute,4,0.28,0.94,0.0,0.5,0.51
+109,110,Andrea Garrison,75156 Acevedo Rest Suite 958,Apt. 509,Miami-Dade,South Melissa,OR,30189,80,marshalljohn@hotmail.com,6071261873,Male,Widowed,Unemployed,5,chronic,0,0.08,0.46,0.0,0.5,0.61
+110,111,Kristen Diaz,0391 Bowman Burg,Suite 484,Broward,Jamesville,FL,89572,64,cdyer@gmail.com,5432725518,Male,Divorced,Nurse,4,chronic,3,0.08,0.36,0.0,0.67,0.6
+111,112,Katelyn Kirby,9827 Samuel Lodge Apt. 376,Apt. 800,Alameda,Mcdonaldstad,CA,29510,33,johnsongeorge@holmes-reyes.com,2850905472,Male,Widowed,Retired,2,acute,2,,,,,
+112,113,Robert Edwards,06589 Nguyen Track Suite 155,Apt. 655,Miami-Dade,West Andrewborough,AZ,14267,51,bbradley@yahoo.com,8501098561,Female,Widowed,IT Consultant,5,acute,5,,,,,
+113,114,Joseph Willis,896 Fernandez Skyway Apt. 633,,Harris,Port James,OR,74034,35,raymond47@rogers.com,473241362,Non-Binary,Married,Accountant,2,acute,1,0.48,0.91,0.1,0.5,0.45
+114,115,David Turner,926 Christine Square,,Cook,Marieberg,IL,46720,18,fritzgeorge@bates.biz,5859698586,Non-Binary,Married,Accountant,2,chronic,0,0.48,0.8,0.0,0.5,0.47
+115,116,William Medina,686 Anne Via Suite 685,Suite 247,Cook,Jasonchester,OR,37459,29,danielbradley@gmail.com,7762719596,Non-Binary,Divorced,Unemployed,4,acute,5,0.0,0.51,0.0,0.5,0.62
+116,117,Debra Schultz,0935 Walton Route,Suite 262,King,Johnbury,AZ,60875,53,boothandrew@armstrong.com,4928641866,Male,Divorced,Engineer,2,chronic,0,0.48,0.85,0.0,0.49,0.48
+117,118,Patricia Smith,061 Burns Gardens Suite 565,Suite 327,King,Andrewberg,FL,8584,29,cooperamber@smith.com,8253746281,Male,Divorced,Accountant,3,acute,4,0.28,0.66,0.45,0.5,0.47
+118,119,Luis Gilbert,2995 Nathan Keys,Apt. 778,Broward,East Julia,CA,24499,59,ericmccarthy@nelson.com,4493196338,Non-Binary,Widowed,Teacher,5,chronic,3,,,,,
+119,120,Jason Powers,34057 Smith Crossroad,,Kings,South Monicamouth,AZ,4328,21,thomaskimberly@gmail.com,1900880365,Female,Single,Accountant,3,acute,3,0.28,0.37,0.0,0.18,0.67
+120,121,Gregory Roberts,83977 Shelly Bridge,Suite 866,King,Pattyburgh,AZ,55198,42,earl09@yahoo.com,2468821108,Non-Binary,Married,Nurse,3,acute,0,0.2,0.72,0.1,0.37,0.55
+121,122,Luke Jones,408 James Plaza,Apt. 327,King,Lambertland,AZ,56128,73,aimee01@rodriguez-spencer.net,7206674426,Male,Single,Engineer,3,chronic,3,0.36,0.57,0.37,0.5,0.51
+122,123,James Solis,06430 Jamie Overpass Suite 102,Suite 963,Broward,Corystad,IL,91476,43,vward@yahoo.com,2793060387,Non-Binary,Married,Part-Time Worker,1,chronic,3,0.68,0.55,0.0,0.5,0.53
+123,124,Ricky Ford,30613 Dana Corner Suite 645,Suite 865,King,Torresstad,AZ,40191,43,danielsmark@martinez-vang.net,9662156394,Non-Binary,Widowed,Student,1,acute,2,0.6,0.49,0.0,0.5,0.55
+124,125,Jessica Foster,0261 Dennis Station,Apt. 220,Orange,West Williamburgh,OR,7117,67,lindagill@walsh.info,7984457263,Non-Binary,Widowed,Part-Time Worker,2,acute,3,,,,,
+125,126,Mark Berry,000 Lester Run,Apt. 618,Kings,Lake Anthony,WA,12542,27,shelia77@gmail.com,8010859813,Male,Divorced,Teacher,5,acute,1,0.0,0.65,0.0,0.67,0.52
+126,127,Jocelyn Sullivan,18044 Cruz Walk Apt. 919,Suite 499,Miami-Dade,Erinville,OR,38599,61,william17@hotmail.com,2144018837,Male,Married,Retired,5,chronic,0,0.0,0.85,0.6,0.5,0.45
+127,128,Gabrielle Mccormick,587 Joshua Green Apt. 930,Apt. 406,Multnomah,East Carolyn,NY,72869,71,xodonnell@smith.net,5410981582,Non-Binary,Single,Nurse,5,acute,5,0.08,0.1,0.0,0.62,0.68
+128,129,Wanda Grant,3647 Gerald Forge Suite 534,Apt. 126,Alameda,West Jennyland,IL,45932,70,jessefloyd@hotmail.com,2456511675,Female,Married,Teacher,3,chronic,1,0.28,0.4,0.1,0.62,0.56
+129,130,Sheila Stone,4385 Nichols Mill Apt. 732,Suite 373,Kings,West Edward,TX,99713,85,tracey37@white.com,3868441052,Female,Single,Unemployed,2,acute,1,0.48,0.6,0.1,0.5,0.54
+130,131,Kevin Lee,2209 Hendricks Parks Suite 355,,Kings,Anthonymouth,AZ,68822,18,ggarrison@hotmail.com,1751539274,Male,Widowed,IT Consultant,2,acute,0,0.4,0.58,0.0,0.5,0.52
+131,132,David Lee,60484 Michael Inlet,,Maricopa,Port George,TX,6402,20,davidsandoval@yahoo.com,5780465243,Male,Divorced,Retired,2,chronic,0,0.4,0.48,0.6,0.5,0.45
+132,133,Michael Robertson,044 Williams Mountains Apt. 872,,Alameda,Richardtown,NY,40535,46,jessicaschaefer@boyd-turner.org,6134930445,Female,Single,Nurse,1,chronic,0,0.6,0.82,0.1,0.5,0.46
+133,134,Christina Chung,6560 Matthew Springs Suite 588,Apt. 833,Orange,Whitneychester,CA,7493,63,cpineda@davis.com,5755267212,Female,Single,Teacher,5,acute,0,0.0,0.94,0.1,0.5,0.51
+134,135,Mrs. Kelly Newton,873 Miranda Mountain,Apt. 315,Orange,East Ann,WA,83306,37,ortizjeffrey@wilson.com,7557965255,Female,Married,Teacher,3,acute,1,0.2,0.27,0.0,0.83,0.54
+135,136,Philip Garcia,847 Moore Meadow Suite 524,Suite 047,Orange,East Lauraborough,TX,15713,80,kmccarthy@rogers-henderson.com,4388926245,Non-Binary,Married,Unemployed,4,chronic,3,0.08,0.46,0.0,0.75,0.57
+136,137,Ashley Medina,274 Alexander Isle Suite 340,Suite 925,Harris,New Kenneth,FL,65193,71,kellymorgan@hotmail.com,8202954638,Male,Divorced,Accountant,4,acute,4,0.08,0.32,0.2,0.5,0.63
+137,138,Dr. Michelle Walker,378 Vaughn Square Apt. 608,Suite 261,Alameda,West Vanessaview,CA,5496,19,vanessa70@white-martinez.com,6481133130,Female,Married,Accountant,5,chronic,0,0.08,0.41,0.1,0.5,0.57
+138,139,Christopher Howard,3995 Samantha Brook Apt. 783,Apt. 513,Kings,Lake Jennifer,IL,8047,46,rjohnson@gmail.com,4285350631,Non-Binary,Single,Student,2,acute,2,0.56,0.07,0.1,0.47,0.62
+139,140,Michael Howard,5285 Matthew Knoll,,Cook,Victoriamouth,FL,59681,58,christopher92@payne.net,9856143671,Non-Binary,Divorced,IT Consultant,5,acute,1,0.08,0.26,0.1,0.47,0.64
+140,141,Daniel Larson,766 Philip Lane,,Orange,Paulfort,OR,32832,20,alyssa47@gmail.com,1721899485,Male,Divorced,Unemployed,4,chronic,5,0.0,0.41,0.1,0.5,0.61
+141,142,Cathy Rubio,55463 Gonzales Falls,Apt. 958,Orange,Port Jamesberg,AZ,75172,75,michael09@hotmail.com,8522528398,Female,Single,Nurse,5,chronic,1,0.0,0.52,0.2,0.5,0.59
+142,143,Ashley White,1554 Robert Ways,Apt. 784,Multnomah,South Jose,AZ,95064,45,mhart@smith.org,3096450141,Male,Married,Part-Time Worker,1,acute,0,0.6,0.43,0.0,1.0,0.42
+143,144,Amanda Smith,087 Graves Isle Apt. 342,Apt. 585,Maricopa,Padillaburgh,IL,12224,23,samanthaquinn@hotmail.com,6778264721,Non-Binary,Married,Engineer,4,acute,3,0.0,0.44,0.0,0.33,0.66
+144,145,Heather Harris,8070 Shane Lock,Apt. 467,Miami-Dade,New Lauraside,NY,93030,79,james05@ramirez.com,2995766262,Female,Single,Teacher,3,chronic,2,0.2,0.42,0.0,0.64,0.59
+145,146,Mary Wilson,5350 Jonathan Loop Apt. 965,,Cook,West Danielland,WA,69574,58,thompsonmeagan@gmail.com,6933392573,Male,Widowed,IT Consultant,4,acute,3,0.08,0.59,0.1,0.5,0.57
+146,147,Leslie Taylor,0648 Richardson Ville Apt. 503,,Alameda,Port Robert,AZ,61310,54,egonzalez@murphy.com,5167422124,Female,Divorced,Unemployed,2,chronic,4,0.48,0.95,0.0,0.5,0.48
+147,148,Keith Nicholson,2158 Jonathan Summit Suite 567,Suite 907,Maricopa,Thompsonburgh,CA,37209,25,meyeredward@reid.net,8185069486,Female,Single,Teacher,2,chronic,0,0.48,0.49,0.0,0.75,0.47
+148,149,Cameron Gonzales,526 Michael Overpass Suite 102,,Kings,Thomasberg,IL,5180,76,kariyoung@gmail.com,2231632790,Male,Single,Student,4,chronic,4,0.08,0.68,0.0,0.5,0.59
+149,150,Lawrence Hamilton,52630 Cochran Rapid,Apt. 573,Maricopa,Port Rhondastad,TX,71101,35,fanderson@yahoo.com,1863328504,Male,Married,Teacher,2,chronic,0,0.4,0.99,0.0,0.5,0.45
+150,151,Brian Robertson,265 Nicole Shoal Suite 654,,Harris,Alexandermouth,FL,65664,43,kimberly42@larsen.net,385061953,Non-Binary,Single,Unemployed,5,acute,0,0.0,0.76,0.0,0.5,0.55
+151,152,Brady Noble,90389 Peters Valleys,Suite 928,Multnomah,Huffburgh,FL,19959,51,floreseric@gmail.com,9628957365,Male,Divorced,Engineer,2,acute,4,,,,,
+152,153,Katie Sanchez,92924 Phillip Flats Apt. 457,Suite 887,Maricopa,Lake Benjaminside,AZ,3530,78,kevin64@nguyen-schroeder.info,1369076582,Male,Widowed,Engineer,1,acute,4,0.68,0.68,0.35,0.5,0.48
+153,154,Michelle Berry,306 Simmons Parkways,Suite 784,Kings,Denisetown,NY,17682,32,susanwilliams@carr-reeves.com,3046571141,Non-Binary,Divorced,Part-Time Worker,2,chronic,1,0.4,0.63,0.1,0.44,0.53
+154,155,Holly Bailey,95964 Summers Crescent,Suite 551,Broward,Port David,NY,18721,53,cobbtiffany@smith.com,8526434535,Female,Single,Retired,1,acute,3,0.6,0.73,0.1,0.5,0.5
+155,156,Marissa Poole,90176 Costa Mission,Apt. 786,King,Angelside,WA,78046,52,crobinson@barker.com,5340032504,Male,Single,Student,4,acute,3,0.0,0.86,0.0,0.5,0.55
+156,157,Dana Rice,586 Ashley Curve Apt. 569,Suite 543,Broward,New Davidmouth,FL,95200,21,thompsoncody@robinson-huynh.com,8138457192,Non-Binary,Widowed,Retired,3,acute,2,0.28,0.28,0.35,0.5,0.55
+157,158,Martha Kelley,34791 Parker Unions,Apt. 472,Harris,North Brandon,TX,7384,34,christopherbooth@west-thompson.info,7926780073,Female,Married,Engineer,1,chronic,2,0.6,0.61,0.0,0.5,0.52
+158,159,Matthew Joseph,984 Jody Corners,,Broward,North Francesstad,CA,13455,52,theresabrown@gmail.com,3495426100,Non-Binary,Single,Student,1,chronic,1,0.68,0.19,0.0,0.57,0.58
+159,160,Earl Turner,1667 Harrison Park Suite 567,,Broward,North Danielleberg,AZ,86137,84,christopherlong@hamilton.com,6214376164,Non-Binary,Married,Accountant,2,acute,4,0.4,0.43,0.0,0.5,0.62
+160,161,Kara English,919 Richard Tunnel Apt. 715,Suite 440,Maricopa,Reneeberg,NY,25878,45,johnhahn@hopkins-robinson.com,5196687088,Non-Binary,Divorced,Unemployed,2,chronic,0,0.4,0.18,0.0,0.22,0.69
+161,162,Katherine Carter,876 Timothy Greens Suite 825,Apt. 653,Kings,Benjaminbury,FL,28796,36,ashley85@white.org,512598811,Male,Single,Retired,5,acute,5,0.08,0.34,0.1,0.5,0.62
+162,163,Thomas Holt,67821 Saunders Roads Apt. 804,Suite 902,Miami-Dade,East Stevenburgh,IL,93759,28,uroberson@clark.info,360679656,Female,Single,IT Consultant,1,chronic,1,0.6,0.6,0.0,0.5,0.51
+163,164,Tyler Kennedy,88037 Victor Cliff,Apt. 645,Harris,Ryanton,OR,50780,78,zmanning@page.info,7084241531,Male,Married,Accountant,4,chronic,4,0.0,0.36,0.0,0.5,0.67
+164,165,Candace Gonzalez,237 Karen Fort Suite 409,Suite 885,Multnomah,Smithside,NY,95885,72,carol32@hernandez.org,7103786067,Non-Binary,Single,Teacher,5,chronic,0,0.08,0.49,0.35,0.5,0.55
+165,166,Robin Brown,370 Bell Meadow,Apt. 181,Orange,West Beverlyborough,NY,36075,61,wgonzalez@mcdonald.org,4679935784,Male,Single,Nurse,2,chronic,1,0.48,0.96,0.0,0.5,0.47
+166,167,Patrick Baker,3971 Vaughn Course,Suite 814,King,East Sarah,FL,69911,27,danielle01@turner.com,2498728571,Female,Married,Part-Time Worker,4,acute,0,0.0,0.54,0.0,0.5,0.58
+167,168,Roberta Sandoval,5031 Alexander Curve Apt. 980,,Cook,New Matthew,IL,19370,69,williamslisa@hale.com,2762206865,Male,Widowed,Nurse,3,chronic,0,0.2,0.53,0.27,0.34,0.59
+168,169,Cynthia Sellers,8761 Delgado Passage,Suite 921,Multnomah,Lake Roberttown,FL,14076,69,millerjessica@gibbs-hill.net,3043120384,Male,Divorced,Teacher,1,acute,4,,,,,
+169,170,Andre Fletcher,4798 Quinn Heights,Apt. 755,Alameda,South Brandyview,OR,95742,37,jacquelineanderson@yahoo.com,9755761401,Female,Single,Part-Time Worker,5,acute,2,0.0,0.68,0.53,0.67,0.45
+170,171,Penny Williams,50540 George Falls Suite 627,Suite 068,Cook,North Ronaldmouth,OR,46434,35,adamsilva@santiago.com,7391395517,Female,Married,Accountant,2,chronic,5,0.56,0.63,0.0,0.5,0.52
+171,172,Kristina Martinez,50982 Grant Land,Suite 779,Alameda,West Cynthia,NY,7243,38,eric70@silva-benjamin.net,3934268347,Male,Single,IT Consultant,1,chronic,5,0.6,0.49,0.35,0.5,0.51
+172,173,Joanna Odonnell,6664 Jones Valleys Suite 027,Apt. 822,Alameda,Samuelmouth,TX,95663,64,johnsonarthur@gmail.com,699835237,Male,Married,Unemployed,3,chronic,5,0.2,0.7,0.27,0.5,0.54
+173,174,Elizabeth Nelson,84551 Spence Locks,Suite 242,Harris,Lake Dennisview,IL,93549,61,elizabeth99@kaufman.org,7431532262,Male,Widowed,Unemployed,3,chronic,0,0.28,0.67,0.0,0.17,0.62
+174,175,Robert Moss,501 John Locks Apt. 916,Suite 812,Harris,New Michelleville,TX,11970,29,hoovermichael@gmail.com,4734466223,Female,Single,Engineer,4,acute,2,0.08,0.2,0.27,0.5,0.6
+175,176,Loretta Miller,12037 Arnold Station,Suite 462,Miami-Dade,Kristiside,CA,860,54,wendy55@palmer-reyes.com,2014009921,Female,Divorced,Part-Time Worker,2,chronic,4,0.4,0.55,0.1,0.5,0.56
+176,177,Catherine Phillips,684 Amanda Ports,Suite 042,Maricopa,Cherylhaven,NY,85023,28,quinnsusan@hotmail.com,4799777003,Female,Single,IT Consultant,1,chronic,0,0.6,0.62,0.53,0.5,0.42
+177,178,Brian Coleman,9307 Hughes Locks,,Harris,Reeseberg,TX,7574,83,kimberly37@williams.com,1664147986,Male,Divorced,Unemployed,3,acute,2,0.28,0.5,0.0,0.75,0.54
+178,179,Jennifer Koch,091 Dylan Parkway,,Broward,Lake Jackson,NY,57436,73,fdavis@jones-black.net,8374785943,Male,Divorced,Engineer,1,acute,4,0.68,0.78,0.0,0.5,0.51
+179,180,Michael Delacruz,824 Burns Locks,,Cook,Donaldland,AZ,27811,58,xdickerson@hotmail.com,618019870,Non-Binary,Single,IT Consultant,4,acute,1,,,,,
+180,181,Alexis Davis,06252 Brittany Road Suite 178,Apt. 028,Broward,South Tanyaburgh,WA,39864,51,mrice@gmail.com,1147391450,Non-Binary,Divorced,Unemployed,2,chronic,5,0.48,0.9,0.0,0.5,0.5
+181,182,Jesse Kent,523 Carolyn Parkway Apt. 342,Apt. 484,Orange,Brittanyview,AZ,51791,27,cathysantana@hotmail.com,9492476269,Male,Single,Engineer,2,chronic,0,,,,,
+182,183,James Newton,636 Jerry Tunnel Suite 358,Suite 565,Miami-Dade,Thomasbury,OR,23504,21,stacie85@salas.org,5706412191,Female,Married,Nurse,3,acute,0,0.2,0.69,0.0,1.0,0.4
+183,184,Yolanda Johnson,28569 Gina Lake Apt. 609,,Alameda,Tamiport,TX,33955,32,jrobinson@holder-valenzuela.com,9833734583,Female,Widowed,Unemployed,3,chronic,3,0.36,0.18,0.1,0.37,0.64
+184,185,Michael Williams,1510 West View,Suite 757,Broward,South Oliviaville,AZ,34131,74,laradawn@ingram-bennett.net,936601311,Non-Binary,Married,Retired,4,chronic,1,0.08,0.35,0.0,0.5,0.64
+185,186,John Moore,05358 Blair Mill Apt. 392,,Alameda,Michaelburgh,TX,87341,65,cunninghammatthew@cooper-sanchez.info,6987275614,Male,Married,Nurse,2,chronic,2,,,,,
+186,187,David Alvarado,5777 Travis Mountain Suite 861,Apt. 833,King,North George,CA,63164,50,sharon37@hotmail.com,709326909,Non-Binary,Single,Accountant,2,acute,3,0.4,0.36,0.1,0.48,0.6
+187,188,Dr. Timothy Martin,016 Regina Island Apt. 247,Suite 726,Multnomah,Morganborough,CA,67598,79,kelsey66@barrera-watkins.net,4159670275,Female,Divorced,Unemployed,4,acute,5,0.08,0.44,0.1,0.5,0.63
+188,189,Michael Smith,965 William Spurs,Apt. 196,Maricopa,East Jonathan,IL,7972,51,courtneylong@garcia-davis.com,8178187192,Male,Divorced,Student,5,acute,5,,,,,
+189,190,Christine Hines,0979 Jason Extensions,Apt. 367,Maricopa,East Bryanmouth,WA,44278,63,dianacox@flowers-cooper.com,8773038908,Non-Binary,Single,IT Consultant,2,chronic,1,0.56,0.57,0.0,0.83,0.45
+190,191,Mrs. Lauren Johnson,943 Ryan Common,Apt. 473,Multnomah,Alexanderburgh,AZ,62026,81,ruizlevi@hotmail.com,9814635314,Male,Widowed,Nurse,5,acute,5,0.24,0.04,0.3,0.46,0.66
+191,192,Steven Cherry,63469 Taylor Union,,Harris,North Michaelville,IL,71280,79,john54@yahoo.com,2509074684,Male,Divorced,Teacher,2,chronic,4,0.64,0.5,0.0,0.72,0.5
+192,193,Christopher Conley,22382 Brooks Vista Suite 568,,Orange,North Rileyville,CA,43554,19,allen20@grant.com,2400387744,Non-Binary,Married,Retired,3,acute,3,0.28,0.83,0.1,0.5,0.48
+193,194,Betty Rice,8003 Jones Neck,Suite 350,Harris,Carolynton,CA,33580,42,andreacabrera@hardy.com,6998890743,Male,Married,IT Consultant,3,acute,1,0.28,0.56,0.0,0.75,0.49
+194,195,Dr. Ralph Carpenter,84574 Cole Stravenue,Apt. 740,Cook,Jacobsside,IL,1799,81,owenshayley@gmail.com,9250630743,Male,Married,Retired,5,acute,3,0.0,0.45,0.6,0.5,0.56
+195,196,Joshua Potter,5968 Johnson Fields,,Cook,Billyfurt,TX,5112,43,sharprodney@hunt.com,3401217391,Male,Widowed,Engineer,1,chronic,3,,,,,
+196,197,Connie Figueroa,8415 Taylor Points,Apt. 813,Alameda,Kellyburgh,WA,57067,34,anthonygonzales@wilcox-lee.info,6910978983,Non-Binary,Married,Accountant,1,chronic,1,0.68,0.41,0.35,0.5,0.49
+197,198,Mike Garcia,8093 Gonzalez Roads,Apt. 588,Cook,Millerstad,TX,48735,68,diane52@yahoo.com,7367807814,Non-Binary,Married,Unemployed,1,acute,4,0.68,0.24,0.22,0.62,0.55
+198,199,Luis Carrillo,3934 Jones Island,,Orange,East Sara,FL,96725,35,annacampbell@hotmail.com,1802376323,Male,Widowed,Accountant,1,chronic,5,,,,,
+199,200,Caleb Roberts,81333 Jessica Mountains,Suite 310,Maricopa,Wolfeshire,OR,4609,78,varias@french.org,9283823894,Female,Divorced,Nurse,1,chronic,2,0.6,0.48,0.0,0.75,0.51
