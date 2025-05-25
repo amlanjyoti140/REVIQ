@@ -2,6 +2,10 @@ import pandas as pd
 import sqlite3
 from typing import Union
 import logging
+from langchain.sql_database import SQLDatabase
+from langchain.agents.agent_toolkits import SQLDatabaseToolkit
+from langchain.agents import Tool
+import os
 
 # Configure logger
 logging.basicConfig(level=logging.INFO)
@@ -33,10 +37,6 @@ def load_df_to_sqlite(
     conn.close()
 
 
-import sqlite3
-import pandas as pd
-
-
 def read_table_from_sqlite(sqlite_db_path: str, table_name: str) -> pd.DataFrame:
     """
     Reads a table from a SQLite database and returns it as a pandas DataFrame.
@@ -61,4 +61,11 @@ def read_table_from_sqlite(sqlite_db_path: str, table_name: str) -> pd.DataFrame
 
     return df
 
+
+
+def get_sqlite_tools(db_path: str, llm) -> list:
+
+    db = SQLDatabase.from_uri(f"sqlite:///{db_path}")
+    toolkit = SQLDatabaseToolkit(db=db, llm=llm)
+    return toolkit.get_tools()
 

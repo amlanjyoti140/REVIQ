@@ -14,6 +14,7 @@ def predict_and_explain_adherence_tool(
     age: int,
     gender: str,
     state: str,
+    city: str,
     zip_code: int,
     income_grade: int,
     condition: str,
@@ -21,7 +22,24 @@ def predict_and_explain_adherence_tool(
     occupation: str,
     marital_status: str
 ) -> str:
-    """Predict adherence score and explain based on patient info."""
+    """
+    Predict the patient's medication adherence score based on personal and socio-economic data.
+
+    Args:
+        age: Age of the patient (in years).
+        gender: Gender of the patient (e.g., Male,Female).
+        state: US state of residence (e.g., TX,CA).
+        city: City of residence (e.g., Palo Alto, Omaha).
+        zip_code: ZIP code of residence.
+        income_grade: Income grade (1–4, where 4 is highest).
+        condition: Chronic health condition (e.g., acute/chronic).
+        no_of_dependents: Number of dependents.
+        occupation: Job title or type (e.g., truck driver).
+        marital_status: Marital status (e.g., Single, Married).
+
+    Returns:
+        A detailed explanation of the predicted adherence score and contributing factors.
+    """
     patient = {
         "age": age,
         "gender": gender,
@@ -32,7 +50,7 @@ def predict_and_explain_adherence_tool(
         "no_of_dependant": no_of_dependents,
         "occupation": occupation,
         "maritial_status": marital_status,
-        "city": "unknown",  # Optional dummy data if needed
+        "city": city,  # Optional dummy data if needed
         "id": 0, "name": "", "address_line1": "", "address_line2": "", "email": "", "phone": 0
     }
 
