@@ -7,6 +7,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain_predictor_tool import predict_and_explain_adherence_tool
 from dotenv import load_dotenv
 from reviq_helper import get_sqlite_tools
+from few_shot_helper import get_few_shot_tool
 from langchain.schema import SystemMessage
 
 load_dotenv()
@@ -32,15 +33,17 @@ llm = ChatOpenAI(model="gpt-4.1",
 
 tools = [predict_and_explain_adherence_tool]
 
-# 👇 SQLite DB Tool
+#  SQLite DB Tool
 sqlite_db_path = config["DEFAULT"]["sqlite_db_path"]
 
 logger.info(f"sqlite_db_path : {sqlite_db_path}")
 
 sql_tools = get_sqlite_tools(sqlite_db_path, llm)
 
-# 👇 Combine tools
-all_tools = tools + sql_tools
+few_shot_tool = get_few_shot_tool(llm)
+
+#  Combine tools
+all_tools = tools + sql_tools + [few_shot_tool]
 
 agent = initialize_agent(
     tools=all_tools,
@@ -59,6 +62,6 @@ if __name__ == "__main__":
     #     "suffering from a chronic condition, with 4 dependents, working as a truck driver, married."
     # )
     result = agent.run(
-        "Tell me a joke"
+        "which state has maximum high risk patients"
     )
     print(result)
